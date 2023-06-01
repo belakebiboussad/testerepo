@@ -1,0 +1,116 @@
+0
+00:00:10,480 --> 00:00:16,800
+In the previous video, you learned about Git and GitHub. Before you continue with this video,
+
+1
+00:00:16,800 --> 00:00:24,000
+register for a GitHub account and log in. Let’s start by creating a new repository.
+
+2
+00:00:24,960 --> 00:00:33,040
+Click + then click New Repository. To create a new repository, you need to provide
+
+3
+00:00:33,040 --> 00:00:40,160
+these details: give your new repository a name; optionally, add a description of your repository;
+
+4
+00:00:40,160 --> 00:00:46,240
+choose the repository visibility - whether you want it to be public or private; and choose the option
+
+5
+00:00:46,240 --> 00:00:53,160
+to Initialize this repository with readme file. Then click Create Repository.
+
+6
+00:00:54,640 --> 00:00:58,720
+You will now be redirected to the repository you have created.
+
+7
+00:00:58,720 --> 00:01:05,920
+The root folder of your repository is listed by default and it has just one file ReadMe.md.
+
+8
+00:01:08,560 --> 00:01:14,320
+Now, it’s time to edit the readme. You can do this in your browser. Just click the pencil to open the
+
+9
+00:01:14,320 --> 00:01:20,800
+online editor and you can change the text of the readme. To save your changes to the repository,
+
+10
+00:01:20,800 --> 00:01:26,160
+you must commit them. After you have made your changes, scroll down to the Commit changes
+
+11
+00:01:26,160 --> 00:01:33,760
+section. Add a commit message and optionally add a description, then click Commit changes. The
+
+12
+00:01:33,760 --> 00:01:41,760
+"commit changes" is used to save your changes to the repository. Go back to the home screen by
+
+13
+00:01:41,760 --> 00:01:48,480
+clicking the repository name link. Note that the readme file is updated and verify your changes.
+
+14
+00:01:49,840 --> 00:01:56,000
+Let’s learn how to create a new file using the built-in web editor provided by GitHub which
+
+15
+00:01:56,000 --> 00:02:02,800
+runs in the browser. Click Add File, then click Create New File to create the new file.
+
+16
+00:02:04,480 --> 00:02:07,840
+To create a python file called firstpython.py.
+
+17
+00:02:08,480 --> 00:02:15,200
+First, provide the file name. Next, add a comment that describes your code, then add the code.
+
+18
+00:02:17,600 --> 00:02:24,000
+Once finished, commit the change to the repository. You can see that your file is
+
+19
+00:02:24,000 --> 00:02:30,240
+now added to the repository and the repository listing shows when the file was added or changed.
+
+20
+00:02:31,200 --> 00:02:34,480
+When you need to change the file, you can edit it again.
+
+21
+00:02:34,480 --> 00:02:39,920
+Click the file name, and then click the pencil icon, make your edits and commit the changes.
+
+22
+00:02:40,960 --> 00:02:45,600
+You can also upload a file from your local system into the repository.
+
+23
+00:02:45,600 --> 00:02:51,360
+From the home screen of the repository, click Add File and choose the Upload files option.
+
+24
+00:02:53,120 --> 00:02:58,160
+Click Choose Your Files and select the files you want to upload from your local system.
+
+25
+00:02:59,600 --> 00:03:02,800
+The file upload process may take a short time,
+
+26
+00:03:02,800 --> 00:03:07,120
+depending on what you are uploading. Once the files finish uploading,
+
+27
+00:03:07,120 --> 00:03:14,880
+click Commit Changes. The repository now reflects the files that were uploaded. In this video,
+
+28
+00:03:14,880 --> 00:03:26,560
+you learned how to create a repository, edit files, and commit changes using the web interface.
+
